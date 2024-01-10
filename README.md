@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Gedeon_Isezerano
+- 👋 Hi, I’m @Gedeon_Isezerano. I enjoy everything software.
 
-- 📫 Contact: gei715@usaskca
+- 📫 Contact: isezeranog@gmail.com
 
 <!---
 GedeonIsezerano/GedeonIsezerano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
